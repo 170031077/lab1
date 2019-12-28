@@ -1,2 +1,9 @@
-import numpy as np
-print np.max([1, 2, 3, 4])
+# list of numbers 
+list1 = [10, 20, 4, 45, 99] 
+  
+# sorting the list 
+list1.sort() 
+  
+# printing the last element 
+print("Largest element is:", list1[-1]) 
+Output:
